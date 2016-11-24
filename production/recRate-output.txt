@@ -1,0 +1,925 @@
+The current number to test for is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 0
+The current number to test for is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 7
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 2
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 7
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 2
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 1
+The current number to test for is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 7
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 1
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 2
+The character in the image is: 0
+The character in the image is: 3
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 3
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 1
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 2
+The current number to test for is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 3
+The character in the image is: 0
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 0
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 0
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 2
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 3
+The current number to test for is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 5
+The character in the image is: 4
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 5
+The character in the image is: 9
+The character in the image is: 4
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 9
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 4
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 5
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 4
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 9
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 7
+The current number to test for is: 5
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 8
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 8
+The character in the image is: 5
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 6
+The character in the image is: 5
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 0
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 1
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 1
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 2
+The character in the image is: 8
+The character in the image is: 5
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 0
+The character in the image is: 9
+The character in the image is: 2
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 2
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 2
+The character in the image is: 5
+The character in the image is: 4
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 5
+The character in the image is: 2
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 5
+The character in the image is: 0
+The current number to test for is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 4
+The character in the image is: 8
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 8
+The character in the image is: 8
+The character in the image is: 4
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 6
+The character in the image is: 3
+The character in the image is: 6
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 6
+The character in the image is: 8
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 5
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 3
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 2
+The character in the image is: 4
+The character in the image is: 6
+The character in the image is: 6
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 6
+The current number to test for is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 1
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 1
+The character in the image is: 7
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 1
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 1
+The character in the image is: 7
+The character in the image is: 7
+The character in the image is: 7
+The current number to test for is: 8
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 5
+The character in the image is: 8
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 0
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 0
+The character in the image is: 8
+The character in the image is: 8
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 2
+The character in the image is: 8
+The character in the image is: 3
+The character in the image is: 8
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 0
+The character in the image is: 8
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 8
+The character in the image is: 8
+The character in the image is: 0
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 0
+The character in the image is: 6
+The character in the image is: 6
+The character in the image is: 3
+Image imported successfully
+The character in the image is: 6
+The character in the image is: 8
+The character in the image is: 0
+The character in the image is: 3
+The character in the image is: 8
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 0
+The character in the image is: 8
+The character in the image is: 0
+The character in the image is: 8
+Image imported successfully
+The character in the image is: 0
+The character in the image is: 6
+The character in the image is: 8
+The character in the image is: 8
+The character in the image is: 0
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 9
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 9
+The character in the image is: 8
+The character in the image is: 9
+The character in the image is: 8
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 8
+The character in the image is: 8
+The character in the image is: 3
+The character in the image is: 8
+Image imported successfully
+The character in the image is: 8
+The character in the image is: 3
+The character in the image is: 3
+The character in the image is: 8
+The character in the image is: 2
+Image imported successfully
+The character in the image is: 2
+The character in the image is: 9
+The character in the image is: 2
+The character in the image is: 9
+The character in the image is: 3
+The current number to test for is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 7
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 1
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 3
+The character in the image is: 9
+The character in the image is: 1
+Image imported successfully
+The character in the image is: 4
+The character in the image is: 1
+The character in the image is: 9
+The character in the image is: 1
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 4
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 4
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 5
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 4
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 3
+The character in the image is: 1
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 1
+The character in the image is: 9
+The character in the image is: 5
+Image imported successfully
+The character in the image is: 5
+The character in the image is: 9
+The character in the image is: 5
+The character in the image is: 1
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 9
+Image imported successfully
+The character in the image is: 1
+The character in the image is: 9
+The character in the image is: 9
+The character in the image is: 1
+The character in the image is: 9
+[76, 43, 57, 55, 39, 32, 58, 67, 24, 52]
+[76, 75, 75, 75, 76, 75, 75, 75, 75, 75]
+0 - 100.0 percent
+1 - 57.333333333333336 percent
+2 - 76.0 percent
+3 - 73.33333333333333 percent
+4 - 51.31578947368421 percent
+5 - 42.66666666666667 percent
+6 - 77.33333333333333 percent
+7 - 89.33333333333333 percent
+8 - 32.0 percent
+9 - 69.33333333333334 percent
+Total - 66.86491228070174 percent

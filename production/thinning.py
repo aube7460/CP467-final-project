@@ -1,0 +1,171 @@
+from PIL import Image
+
+def thinning(img):
+    
+    imgTemp = Image.new("1", (img.width-1, img.height-1))  #create new image
+    pixelCounter = 0                                    #Keep track of how many pixels have been checked
+    deleted = True                                      #boolean variable to determine if a pixel is deleted
+    count = 0                                           #keeps track of how many pixels have been deleted in one iteration
+    size = (img.width-1) * (img.height-1)               #The size of the image to compare to the pixel counter
+    imgA = []                                           #used to get the pixels around the pixel in question
+    
+    while deleted:                                      #loop while there are still pixels being deleted
+        
+        deleted = False                                 #initially set it to false 
+        
+        for i in range(0, img.width-1):                         #for every pixel 
+            for j in range(0, img.height-1):
+                del imgA[:]                                     #delete the array contents 
+
+                if (i == 0 or j == 0):                            #if the index is out of bounds, set the pixel to white
+                    imgA.append(255)
+                else:               
+                    imgA.append(img.getpixel((i-1, j-1)))       #populate imageArray with top left pixel
+                    
+                if j == 0:                                      #if the index is out of bounds, set the pixel to white
+                    imgA.append(255)
+                else:
+                    imgA.append(img.getpixel((i, j-1)))         #populate imageArray with top middle pixel
+                    
+                if j == 0:                                      #if the index is out of bounds, set the pixel to white
+                    imgA.append(255)    
+                else:
+                    imgA.append(img.getpixel((i+1, j-1)))       #populate imageArray with top right pixel
+                
+                if  i == 0:                                     #if the index is out of bounds, set the pixel to white
+                    imgA.append(255)
+                else:   
+                    imgA.append(img.getpixel((i-1, j)))         #populate imageArray with middle left pixel
+                    
+                imgA.append(img.getpixel((i, j)))               #populate imageArray with middle pixel
+                imgA.append(img.getpixel((i+1, j)))             #populate imageArray with middle right pixel
+                
+                if i == 0:                                      #if the index is out of bounds, set the pixel to white
+                    imgA.append(255)
+                else:
+                    imgA.append(img.getpixel((i-1, j+1)))       #populate imageArray with bottom left pixel
+                    
+                imgA.append(img.getpixel((i, j+1)))             #populate imageArray with bottom middle pixel
+                imgA.append(img.getpixel((i+1, j+1)))           #populate imageArray with bottom right pixel
+                                        
+                #rule 1
+                if (imgA[0]==0 and imgA[3]==0 and imgA[4]==0 and imgA[6]==0 and imgA[7]==0 and imgA[2]==255 and imgA[5]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                
+                #rule 2
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[3]==0 and imgA[4]==0 and imgA[6]==0 and imgA[5]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)  
+                    deleted = True              #deleted the pixel
+                #rule 3 
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[2]==0 and imgA[4]==0 and imgA[5]==0 and imgA[6]==255 and imgA[7]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 4
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[2]==0 and imgA[3]==0 and imgA[4]==0 and imgA[7]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                
+                #rule 5
+                elif (imgA[0]==0 and imgA[3]==0 and imgA[4]==0 and imgA[2]==255 and imgA[5]==255 and imgA[7]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 6 
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[4]==0 and imgA[5]==255 and imgA[6]==255 and imgA[7]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 7
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[2]==0 and imgA[3]==0 and imgA[4]==0 and imgA[6]==0 and imgA[7]==0 and imgA[8]==0 and imgA[5]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 8
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[2]==0 and imgA[3]==0 and imgA[4]==0 and imgA[5]==0 and imgA[6]==0 and imgA[8]==0 and imgA[7]==255):
+                    imgTemp.putpixel((i,j),255) 
+                    deleted = True              #deleted the pixel
+                    
+                #rule 9
+                elif (imgA[3]==0 and imgA[4]==0 and imgA[6]==0 and imgA[1]==255 and imgA[2]==255 and imgA[5]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 10
+                elif (imgA[4]==0 and imgA[6]==0 and imgA[7]==0 and imgA[0]==255 and imgA[1]==255 and imgA[2]==255 and imgA[5]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                #rule 11
+                elif (imgA[1]==0 and imgA[2]==0 and imgA[4]==0 and imgA[3]==255 and imgA[6]==255 and imgA[7]==255 and imgA[8]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                
+                #rule 12
+                elif (imgA[2]==0 and imgA[4]==0 and imgA[5]==0 and imgA[0]==255 and imgA[3]==255 and imgA[6]==255 and imgA[7]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                                
+                #rule 13 
+                elif (imgA[4]==0 and imgA[7]==0 and imgA[8]==0 and imgA[0]==255 and imgA[1]==255 and imgA[2]==255 and imgA[3]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 14
+                elif (imgA[4]==0 and imgA[5]==0 and imgA[8]==0 and imgA[0]==255 and imgA[1]==255 and imgA[3]==255 and imgA[6]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                
+                #rule 15
+                elif (imgA[0]==0 and imgA[1]==0 and imgA[2]==0 and imgA[4]==0 and imgA[5]==0 and imgA[6]==0 and imgA[7]==0 and imgA[8]==0 and imgA[3]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 16 
+                elif (imgA[0]==0 and imgA[2]==0 and imgA[3]==0 and imgA[4]==0 and imgA[5]==0and imgA[6]==0 and imgA[7]==0 and imgA[8]==0 and imgA[1]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 17
+                elif (imgA[2]==0 and imgA[4]==0 and imgA[5]==0 and imgA[7]==0 and imgA[8]==0 and imgA[0]==255 and imgA[3]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 18
+                elif (imgA[1]==0 and imgA[2]==0 and imgA[4]==0 and imgA[5]==0 and imgA[8]==0 and imgA[3]==255 and imgA[6]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 19
+                elif (imgA[4]==0 and imgA[5]==0 and imgA[6]==0 and imgA[7]==0 and imgA[8]==0 and imgA[0]==255 and imgA[1]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                    
+                #rule 20
+                elif (imgA[3]==0 and imgA[4]==0 and imgA[6]==0 and imgA[7]==0 and imgA[8]==0 and imgA[1]==255 and imgA[2]==255):
+                    imgTemp.putpixel((i,j),255)
+                    deleted = True              #deleted the pixel
+                                             
+                else:
+                    imgTemp.putpixel((i,j),img.getpixel((i,j)))            #if the pixel is not deleted, put it back into the image
+                    
+                pixelCounter += 1               #add one to the pixel counter
+                                
+                if deleted:                     #if a pixel is deleted then add one to the deleted counter
+                    count +=1
+             
+        if pixelCounter == size:                #if every pixel has been checked, check to see if any have been deleted
+            if count > 0:                       #        if so, continue looping, if not then the image is thinned
+                deleted = True
+                i = 0                           # set i back to zero
+                j = 0                           # set j back to zero
+                pixelCounter = 0             # set the pixel counter back to zero 
+                count = 0
+                w = imgTemp.width
+                h = imgTemp.height                   
+                img.paste(imgTemp,(0,0,w,h))
+
+            else:
+                deleted = False                 # no pixels were deleted so the image is thinned                  
+    
+    return imgTemp

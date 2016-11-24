@@ -1,0 +1,212 @@
+The current letter to test for is: A
+Image imported successfully
+The character in the image is: A
+The character in the image is: A
+The character in the image is: A
+The character in the image is: A
+The character in the image is: A
+The current letter to test for is: B
+Image imported successfully
+The character in the image is: 3
+The character in the image is: B
+The character in the image is: B
+The character in the image is: 2
+The character in the image is: 5
+The current letter to test for is: C
+Image imported successfully
+The character in the image is: L
+The character in the image is: C
+The character in the image is: C
+The character in the image is: C
+The character in the image is: C
+The current letter to test for is: D
+Image imported successfully
+The character in the image is: D
+The character in the image is: 0
+The character in the image is: D
+The character in the image is: D
+The character in the image is: 0
+The current letter to test for is: E
+Image imported successfully
+The character in the image is: C
+The character in the image is: E
+The character in the image is: E
+The character in the image is: C
+The character in the image is: F
+The current letter to test for is: F
+Image imported successfully
+The character in the image is: E
+The character in the image is: F
+The character in the image is: F
+The character in the image is: F
+The character in the image is: F
+The current letter to test for is: G
+Image imported successfully
+The character in the image is: G
+The character in the image is: C
+The character in the image is: C
+The character in the image is: G
+The character in the image is: G
+The character in the image is: G
+The current letter to test for is: H
+Image imported successfully
+The character in the image is: H
+The character in the image is: H
+The character in the image is: H
+The character in the image is: H
+The character in the image is: 4
+The current letter to test for is: I
+Image imported successfully
+The character in the image is: T
+The character in the image is: I
+The character in the image is: I
+The character in the image is: I
+The character in the image is: I
+The current letter to test for is: J
+Image imported successfully
+The character in the image is: J
+The character in the image is: J
+The character in the image is: J
+The character in the image is: T
+The character in the image is: J
+The current letter to test for is: K
+Image imported successfully
+The character in the image is: K
+The character in the image is: K
+The character in the image is: K
+The character in the image is: K
+The character in the image is: K
+The current letter to test for is: L
+Image imported successfully
+The character in the image is: L
+The character in the image is: L
+The character in the image is: L
+The character in the image is: L
+The character in the image is: L
+The current letter to test for is: M
+Image imported successfully
+The character in the image is: H
+The character in the image is: W
+The character in the image is: M
+The character in the image is: A
+The character in the image is: A
+The current letter to test for is: N
+Image imported successfully
+The character in the image is: A
+The character in the image is: N
+The character in the image is: N
+The character in the image is: 1
+The character in the image is: H
+The current letter to test for is: O
+Image imported successfully
+The character in the image is: O
+The character in the image is: 0
+The character in the image is: O
+The character in the image is: D
+The character in the image is: O
+The current letter to test for is: P
+Image imported successfully
+The character in the image is: P
+The character in the image is: 9
+The character in the image is: P
+The character in the image is: E
+The character in the image is: P
+The current letter to test for is: Q
+Image imported successfully
+The character in the image is: G
+The character in the image is: O
+The character in the image is: 0
+The character in the image is: G
+The character in the image is: O
+The current letter to test for is: R
+Image imported successfully
+The character in the image is: P
+The character in the image is: R
+The character in the image is: K
+The character in the image is: P
+The character in the image is: R
+The current letter to test for is: S
+Image imported successfully
+The character in the image is: S
+The character in the image is: S
+The character in the image is: S
+The character in the image is: S
+The character in the image is: S
+The current letter to test for is: T
+Image imported successfully
+The character in the image is: T
+The character in the image is: T
+The character in the image is: Y
+The character in the image is: T
+The character in the image is: T
+The current letter to test for is: U
+Image imported successfully
+The character in the image is: U
+The character in the image is: U
+The character in the image is: U
+The character in the image is: U
+The character in the image is: U
+The current letter to test for is: V
+Image imported successfully
+The character in the image is: V
+The character in the image is: V
+The character in the image is: L
+The character in the image is: V
+The character in the image is: U
+The current letter to test for is: W
+Image imported successfully
+The character in the image is: U
+The character in the image is: H
+The character in the image is: H
+The character in the image is: W
+The character in the image is: H
+The current letter to test for is: X
+Image imported successfully
+The character in the image is: 1
+The character in the image is: K
+The character in the image is: K
+The character in the image is: A
+The character in the image is: X
+The current letter to test for is: Y
+Image imported successfully
+The character in the image is: Y
+The character in the image is: T
+The character in the image is: Y
+The character in the image is: Y
+The character in the image is: Y
+The current letter to test for is: Z
+Image imported successfully
+The character in the image is: Z
+The character in the image is: 2
+The character in the image is: Z
+The character in the image is: 2
+The character in the image is: Z
+[5, 2, 4, 3, 2, 4, 4, 4, 4, 4, 5, 5, 1, 2, 3, 3, 0, 2, 5, 4, 5, 3, 1, 1, 4, 3]
+[5, 5, 5, 5, 5, 5, 6, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+0 - 100.0 percent
+1 - 40.0 percent
+2 - 80.0 percent
+3 - 60.0 percent
+4 - 40.0 percent
+5 - 80.0 percent
+6 - 66.66666666666666 percent
+7 - 80.0 percent
+8 - 80.0 percent
+9 - 80.0 percent
+10 - 100.0 percent
+11 - 100.0 percent
+12 - 20.0 percent
+13 - 40.0 percent
+14 - 60.0 percent
+15 - 60.0 percent
+16 - 0.0 percent
+17 - 40.0 percent
+18 - 100.0 percent
+19 - 80.0 percent
+20 - 100.0 percent
+21 - 60.0 percent
+22 - 20.0 percent
+23 - 20.0 percent
+24 - 80.0 percent
+25 - 60.0 percent
+Total - 63.33333333333333 percent

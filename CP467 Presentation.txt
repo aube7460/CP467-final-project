@@ -1,0 +1,41 @@
+CP467 Presentation
+
+For each section: -Explain how it works, what we did, why we did it, show examples (show code?)
+
+Filtering (Jesper)
+	-High pass
+	-Low pass (mean filter)
+	-Padding the image (making the sides the same pixel as the other values to improve quality)
+	-Convolution
+	-grayscale.jpg
+
+Multiple Characters (Will)
+	-Handle several characters in the same file
+	-multi.png
+
+Thinning: (Jason)
+	-Applying Dr. Ahmed's algorithm to thin the image
+	-thin.png
+
+Scaling: (Will)
+	-Find the edges, crop, then resize
+	-scale.png
+
+Zoning: (Jesper)
+	-Divide the image up into quadrants, calculate percentage in each quadrant, output as vector
+	-zone.png
+
+Character Recognition: (Jason)
+	-Finding smallest Euclidean distance to determine what character the image is (compared to all vectors stored in the DB)
+	-zone.png
+
+Run through the whole OCR: (Will)
+	-Display output
+	-Ask audience to choose a number to use the OCR on (draw on laptop, then insert)
+	-Then use a Letter
+	-Explain validation process, how we use it
+	-Draw CP467 on 200px by 200px blank .png image
+
+Future Outlook: (All)
+	-Talk about using grammar rules in the future
+	-Everyone talks about one idea they would like to improve on
